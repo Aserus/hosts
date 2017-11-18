@@ -1,0 +1,5 @@
+# host list
+
+0.0.0.0 marketgid.com
+0.0.0.0 wsp.marketgid.com
+0.0.0.0 yastatic.net
